@@ -54,7 +54,8 @@
       "pages": [
         "reports",
         "dashboards",
-        "development"
+        "development",
+        "charts"
       ]
     },
     {
